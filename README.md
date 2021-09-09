@@ -3,8 +3,8 @@
 
 # Supported tags and respective Dockerfile links
 
- - 1.0-rc-1
- - 1.0-rc-2
+ - [1.0-rc-1](https://github.com/dalmatialab/dnsmasq/blob/b874dcad07c57bff8b90556e938f7ef0a0a3ce9a/Dockerfile)
+ - [1.0-rc-2](https://github.com/dalmatialab/dnsmasq/blob/4218e6053c7451ba24c80371020f89e192f2394c/Dockerfile)
 
 # What is Dnsmasq ? 
 
