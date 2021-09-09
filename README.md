@@ -4,6 +4,7 @@
 # Supported tags and respective Dockerfile links
 
  - 1.0-rc-1
+ - 1.0-rc-2
 
 # What is Dnsmasq ? 
 
@@ -22,6 +23,12 @@ Where:
  - `some-dnsmasq` is name you want to assign to your container
  - `image` is Docker image name
  - `tag` is Docker image version
+
+## Environment variables
+
+**TZ**
+
+This is *optional* variable. It specifes timezone. Default value is `Europe/Zagreb`.
 
 ## Volumes  
 
